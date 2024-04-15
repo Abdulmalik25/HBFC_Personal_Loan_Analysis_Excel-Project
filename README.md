@@ -39,7 +39,8 @@ To analyze the personal loan data of HBFC Bank, identifying key customer profile
 ![1c](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/431b6a39-d43d-468b-a08f-c7b02b731d87)
 
 4. Scatter Plot Between Age and Experience.
-![1d](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/47df6fc2-aefe-4634-9ef5-fd303ec7596a)
+<img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/47df6fc2-aefe-4634-9ef5-fd303ec7596a" alt="1d" width="300" height="250">
+
 
 5. The top 3 areas (ZIP Codes) where the bank’s customers are located.
 ![1e](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/6931a31b-e9e1-49b0-a316-21a073282b13)
