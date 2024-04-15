@@ -83,6 +83,11 @@ Four pivot tables were created to analyze various relationships within the datas
 
 These pivot tables provide valuable insights into how different factors correlate with the likelihood of customers availing personal loans.
 
+![1h1](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/4bbb8fb0-9349-4c7c-90e4-6365a1399c8b)
+
+![1h2](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/512366a3-2931-4f4b-a5d7-7f6e34070e41)
+
+
 
 
 
