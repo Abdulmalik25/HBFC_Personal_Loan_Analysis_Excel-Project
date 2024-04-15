@@ -30,7 +30,8 @@ To analyze the personal loan data of HBFC Bank, identifying key customer profile
 ## Questions and Tasks
 
 1. Percentange of the customerswho have availed personal loans compared to the ones who didn't availed personal loans?
-![1a](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/ab462e41-85dd-4246-a321-6f8b70f2884b)
+<img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/ab462e41-85dd-4246-a321-6f8b70f2884b" alt="1a" width="300" height="300">
+
 
 2. A Table with minimum,Maximum,Average,Median for the numeric variables like Age,Experience,income,Family Members,CCAvg,Mortgage.
 ![1b](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/2aedb4ff-648f-4390-8c4f-0b3e951cb017)
