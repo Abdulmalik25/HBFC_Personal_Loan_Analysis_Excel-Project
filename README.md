@@ -55,12 +55,16 @@ To analyze the personal loan data of HBFC Bank, identifying key customer profile
 ## Pivot Tables
 Four pivot tables were created to analyze various relationships within the dataset:
 
-1.Education vs. Personal Loan: Examining the percentage of customers with different education levels who availed personal loans.
-2.TD Account vs. Personal Loan: Investigating the percentage of customers with Term Deposit accounts who also availed personal loans.
-3.Online vs. Personal Loan: Evaluating the percentage of customers who use online banking facilities and availed personal loans.
-4.Income Category vs. Personal Loan: Analyzing the percentage of customers falling into different income categories who availed personal loans.
+1. **Education vs. Personal Loan:** Examining the percentage of customers with different education levels who availed personal loans.
 
-These pivot tables provide valuable insights into how different factors correlate with the likelihood of customers availing personal loans
+2. **TD Account vs. Personal Loan:** Investigating the percentage of customers with Term Deposit accounts who also availed personal loans.
+
+3. **Online vs. Personal Loan:** Evaluating the percentage of customers who use online banking facilities and availed personal loans.
+
+4. **Income Category vs. Personal Loan:** Analyzing the percentage of customers falling into different income categories who availed personal loans.
+
+These pivot tables provide valuable insights into how different factors correlate with the likelihood of customers availing personal loans.
+
 
 
 
