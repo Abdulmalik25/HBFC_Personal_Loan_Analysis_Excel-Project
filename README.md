@@ -1,7 +1,8 @@
 # HBFC_Personal_Loan_Analysis_Excel-Project
 Delve into my Excel project where I dissected HBFC personal loan data to unveil game-changing insights for marketing optimization. Explore how strategic recommendations and advanced analytical techniques were wielded to unearth actionable solutions. Dive in and discover the keys to unlocking success!
 ## Tech Stack used
-<img height="300" width="300" src="[https://img.icons8.com/?size=48&id=117561&format=png](https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/f8b28652-2327-42a0-86b1-fbdaa22098fa)" />
+<img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/c69248d4-f54b-42af-9fd9-3b1d346ac291" alt="Picture1">
+
 
 ## Objective
 To analyze the personal loan data of HBFC Bank, identifying key customer profiles and behaviors from previous campaigns to inform targeted marketing strategies for future loan offerings.
